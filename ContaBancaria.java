@@ -2,9 +2,9 @@ public class ContaBancaria {
 
     private String numeroConta;
     private String titular;
-    private double saldo; // somente leitura via getter
+    private double saldo; 
 
-    // GETTERS
+   
     public String getNumeroConta() {
         return numeroConta;
     }
